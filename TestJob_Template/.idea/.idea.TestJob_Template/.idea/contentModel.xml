@@ -7,6 +7,12 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="AnimController.cs" t="Include" />
+        <e p="Item.cs" t="Include" />
+        <e p="ItemHolder.cs" t="Include" />
+        <e p="ItemPoolManager.cs" t="Include" />
+        <e p="ListController.cs" t="Include" />
+        <e p="ListProxy.cs" t="Include" />
+        <e p="SwipeArea.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
